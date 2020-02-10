@@ -5,6 +5,7 @@ cookie-r9q
 
 @http
 post /new
+get /
 
 @tables
 data
