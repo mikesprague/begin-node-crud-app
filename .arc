@@ -4,10 +4,8 @@ cookie-r9q
 @static
 
 @http
-get /todos
-post /todos
-post /todos/delete
-get /l/:shortId
+get /:short_id
+post /new
 
 @tables
 data
