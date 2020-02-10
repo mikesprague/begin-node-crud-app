@@ -7,6 +7,7 @@ cookie-r9q
 get /todos
 post /todos
 post /todos/delete
+get /l/:shortId
 
 @tables
 data
