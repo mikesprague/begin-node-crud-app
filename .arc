@@ -4,8 +4,9 @@ cookie-r9q
 @static
 
 @http
+get /
+get /l/:shortId
 post /new
-get /:shortId
 
 @tables
 data
