@@ -1,7 +1,0 @@
-{
-  "name": "begin-app-post-todos-delete",
-  "dependencies": {
-    "@architect/functions": "^3.5.1",
-    "@begin/data": "^1.1.7"
-  }
-}
