@@ -4,7 +4,7 @@ cookie-r9q
 @static
 
 @http
-
+post /new
 
 @tables
 data
